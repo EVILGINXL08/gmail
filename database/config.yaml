@@ -1,0 +1,7 @@
+mongodb:
+  uri: "mongodb+srv://rainbowgamer920:djyu0Iqibhrdx9pd@cluster0.vrdoq.mongodb.net/"
+  dbname: "office_cookies"
+
+  admin:
+  username: "admin"
+  password: "admin_password" # Store this hashed securely
